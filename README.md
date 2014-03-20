@@ -48,3 +48,11 @@ WHERE
 ORDER BY review_count DESC
 LIMIT 10
 ```
+
+This will calculate the averege review count in the 15,585 businesses
+```SQL
+SELECT 
+    AVG(`review_count`) as average_review_count
+FROM
+    `business`
+```
