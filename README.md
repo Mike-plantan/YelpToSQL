@@ -13,9 +13,9 @@ http://www.apachefriends.org/download.html
 
 After you install the XAMPP you can run the apache server and MySQL server in your computer and then visit http://localhost and http://localhost/phpmyadmin for visiting the MySQL GUI
 
-After you reach this point all you need to download the SQL files and create a database in `phpmyadmin`. Call you database `DM` so you don't get any errors during the import. 
+After you reach this point all you need to download the SQL files and create a database in `phpmyadmin`. Call your new database `DM` so you don't get any errors during the import. 
 
-Open your database from the left sidebar and click from the top tabs `Import`. Choose the file and click Go. You will notice that the tables has been created for you. Repeat this step for all the files in the `SQL-Files` directory.
+Open your database from the left sidebar and click from the top tabs `Import`. Choose the file and click Go. You will notice that the tables have been created for you. Repeat this step for all the files in the `SQL-Files` directory.
 
 ##### Running SQL Queries
 Once your database is set you can click from the top tabs `SQL` and start typing your database. 
