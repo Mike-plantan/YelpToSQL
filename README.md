@@ -18,7 +18,7 @@ After you reach this point all you need to download the SQL files and create a d
 Open your database from the left sidebar and click from the top tabs `Import`. Choose the file and click Go. You will notice that the tables have been created for you. Repeat this step for all the files in the `SQL-Files` directory.
 
 ##### Running SQL Queries
-Once your database is set you can click from the top tabs `SQL` and start typing your database. 
+Once your database is set you can click from the top tabs `SQL` and start typing your query. 
 
 ###### Try these SQL queries.
 
